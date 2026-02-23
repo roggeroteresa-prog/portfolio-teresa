@@ -27,7 +27,7 @@ a:hover{ opacity:.9; }
 .footer{ background:#fff; border-top:1px solid var(--border); }
 /* CV helpers */
 
-.cv-header-photo{width: clamp(120px, 22vw, 420px);  border-radius:50%; object-fit:cover; box-shadow:0 6px 20px rgba(0,0,0,.08); border:3px solid #fff; }
+.cv-header-photo{width: clamp(300px, 22vw, 500px);  border-radius:50%; object-fit:cover; box-shadow:0 6px 20px rgba(0,0,0,.08); border:3px solid #fff; }
 .cv-kicker{ color:var(--accent); font-weight:700; text-transform:uppercase; font-size:.8rem; letter-spacing:.12em; }
 .cv-gdpr{ font-size:.92rem; color:var(--muted); }
 .cv-list{ list-style:none; padding-left:0; }
